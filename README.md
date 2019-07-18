@@ -1,1 +1,1 @@
-# Simple-neural-network
+# MLP
